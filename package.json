@@ -1,0 +1,20 @@
+{
+  "name": "fredsterss-embed-youtube",
+  "description": "Embed youtube videos",
+  "version": "3.5.0",
+  "keywords": [
+    "youtube",
+    "ui",
+    "video",
+    "videos"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "fredsterss-swfobject": "git://github.com/npmcomponent/fredsterss-swfobject.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "matthewmueller-uid": "git://github.com/npmcomponent/matthewmueller-uid.git",
+    "component-querystring": "git://github.com/npmcomponent/component-querystring.git"
+  },
+  "license": "MIT"
+}
